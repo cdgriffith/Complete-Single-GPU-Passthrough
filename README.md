@@ -1,3 +1,9 @@
+# THIS IS A FORK FOR MYSELF, PLEASE READ ORIGINAL
+
+https://github.com/QaidVoid/Complete-Single-GPU-Passthrough
+
+Scripts modified from https://gitlab.com/risingprismtv/single-gpu-passthrough 
+
 ## **Table Of Contents**
 * **[IOMMU Setup](#enable--verify-iommu)**
 * **[Installing Packages](#install-required-tools)**
